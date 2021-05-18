@@ -1,0 +1,4 @@
+[submodule "external/openenclave"]
+	path = external/openenclave
+	url = https://github.com/openenclave/openenclave.git
+	branch = master
